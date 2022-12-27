@@ -1,0 +1,8 @@
+numpy
+torch
+pillow
+notebook
+matplotlib
+chainercv
+tqdm
+pycocotools
